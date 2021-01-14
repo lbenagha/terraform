@@ -1,0 +1,4 @@
+3.94.185.177
+aws_instance.demo.public_ip
+aws_instance.demo.public_ip
+aws_instance.demo.public_ip
